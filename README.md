@@ -15,8 +15,8 @@
 
 ### 一键安装推荐的 vscode 插件
 
-![推荐的 vscode 插件](https://yiming_chang.gitee.io/pure-admin-doc/assets/img/recommended1.88981f91.png "推荐的 vscode 插件s")
-![推荐的 vscode 插件](https://yiming_chang.gitee.io/pure-admin-doc/assets/img/recommended2.0db1b940.png "推荐的 vscode 插件s")
+![推荐的 vscode 插件](./public/readme/vscode1.png "推荐的 vscode 插件s")
+![推荐的 vscode 插件](./public/readme/vscode2.png "推荐的 vscode 插件s")
 
 ### vue3.code-snippets
 
